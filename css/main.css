@@ -1,21 +1,21 @@
 
-body{
-    font-family: 'Lato', sans-serif;
+body {
+    font-family: "Lato", sans-serif;
     color: #2d3c49;
     font-weight: 300;
 }
-.text-thin{
+.text-thin {
     font-weight: 100;
 }
-.img-size-limit{
-    height: 350px;
+.img-size-limit {
+    height: auto;
 }
-.maintitle{
+.maintitle {
     font-size: 60px;
 }
-.logo{
+.logo {
     margin-top: 20px;
 }
-.img-small{
+.img-small {
     margin: 0 auto;
 }
